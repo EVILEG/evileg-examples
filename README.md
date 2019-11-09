@@ -23,8 +23,14 @@ You can do it by following ways:
 | --- | --- |
 | [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Tutorial 008. Working with QTableWidget (Update tutorial 006)](https://evileg.com/post/572/)|
 
+### Qt
+
+| Project | Article |
+| --- | --- |
+| [QLineEdit_IP_Address](Qt/QLineEdit_IP_Address) | [Qt/C++ - Lesson 001. QLineEdit IP Address](https://evileg.com/post/56/) |
+
 ### QML
 
 | Project | Article |
 | --- | --- |
-| [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/en/post/571/) |
+| [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/post/571/) |
