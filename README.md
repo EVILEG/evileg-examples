@@ -17,6 +17,14 @@ You can do it by following ways:
 
 ## Articles
 
+### PyQt5
+
 | Project | Article |
 | --- | --- |
-| [QML/CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/en/post/571/) |
+| [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Урок 008. Работа с QTableWidget (Обновление урока 006)](https://evileg.com/post/572/)|
+
+### QML
+
+| Project | Article |
+| --- | --- |
+| [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/en/post/571/) |
