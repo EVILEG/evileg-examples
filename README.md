@@ -21,7 +21,7 @@ You can do it by following ways:
 
 | Project | Article |
 | --- | --- |
-| [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Урок 008. Работа с QTableWidget (Обновление урока 006)](https://evileg.com/post/572/)|
+| [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Tutorial 008. Working with QTableWidget (Update tutorial 006)](https://evileg.com/post/572/)|
 
 ### QML
 
