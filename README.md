@@ -34,3 +34,4 @@ You can do it by following ways:
 | Project | Article |
 | --- | --- |
 | [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/post/571/) |
+| [ClipPropertyExample](QML/ClipPropertyExample) | [QML - Tutorial 038. Using the clip property to crop child objects inside Item or Rectangle](https://evileg.com/en/post/577/) |

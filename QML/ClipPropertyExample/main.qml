@@ -15,8 +15,6 @@ Window {
         width: 100
         height: 100
         color: "blue"
-        radius: 30
-        clip: true
 
         layer.enabled: true
         layer.effect: OpacityMask {
