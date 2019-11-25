@@ -22,7 +22,7 @@ You can do it by following ways:
 | Project | Article |
 | --- | --- |
 | [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Tutorial 008. Working with QTableWidget (Update tutorial 006)](https://evileg.com/post/572/)|
-| [PyQt5_QThread_move_to_thread](PyQt5/PyQt5_QThread_move_to_thread) | [PyQt5 - Tutorial 009. Using QThread Using MoveToThread](https://evileg.com/en/post/579/) |
+| [PyQt5_QThread_move_to_thread](PyQt5/PyQt5_QThread_move_to_thread) | [PyQt5 - Tutorial 009. Using QThread with moveToThread](https://evileg.com/en/post/579/) |
 
 ### Qt
 
