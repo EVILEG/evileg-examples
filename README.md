@@ -19,20 +19,20 @@ You can do it by following ways:
 
 ### PyQt5
 
-| Project | Article |
+| Project | Article / Forum Post |
 | --- | --- |
 | [QTableWidget](PyQt5/QTableWidget) | [PyQt5 - Tutorial 008. Working with QTableWidget (Update tutorial 006)](https://evileg.com/post/572/)|
 | [PyQt5_QThread_move_to_thread](PyQt5/PyQt5_QThread_move_to_thread) | [PyQt5 - Tutorial 009. Using QThread with moveToThread](https://evileg.com/en/post/579/) |
 
 ### Qt
 
-| Project | Article |
+| Project | Article / Forum Post |
 | --- | --- |
 | [QLineEdit_IP_Address](Qt/QLineEdit_IP_Address) | [Qt/C++ - Lesson 001. QLineEdit IP Address](https://evileg.com/post/56/) |
 
 ### QML
 
-| Project | Article |
+| Project | Article / Forum Post |
 | --- | --- |
 | [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/post/571/) |
 | [ClipPropertyExample](QML/ClipPropertyExample) | [QML - Tutorial 038. Using the clip property to crop child objects inside Item or Rectangle](https://evileg.com/en/post/577/) |
