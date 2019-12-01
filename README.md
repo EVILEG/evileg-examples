@@ -29,6 +29,7 @@ You can do it by following ways:
 | Project | Article / Forum Post |
 | --- | --- |
 | [QLineEdit_IP_Address](Qt/QLineEdit_IP_Address) | [Qt/C++ - Lesson 001. QLineEdit IP Address](https://evileg.com/post/56/) |
+| [ProgramTutorial](Qt/ProgramTutorial) | [Qt/C++ - Tutorial 090. How to make a learning dialogue with highlighting widgets in the program](https://evileg.com/en/post/581/) |
 
 ### QML
 
