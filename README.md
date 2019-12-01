@@ -36,3 +36,9 @@ You can do it by following ways:
 | --- | --- |
 | [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/post/571/) |
 | [ClipPropertyExample](QML/ClipPropertyExample) | [QML - Tutorial 038. Using the clip property to crop child objects inside Item or Rectangle](https://evileg.com/en/post/577/) |
+
+### PyQt5 / QML
+
+| Project | Article / Forum Post |
+| --- | --- |
+| [ApplicationFullScreen](PyQt5_QML/ApplicationFullScreen) | [Forum - ApplicationWindow FullScreen](https://evileg.com/en/forum/topic/1170/) |
