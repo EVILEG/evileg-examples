@@ -13,7 +13,6 @@ You can do it by following ways:
 * **[PayPal](https://www.paypal.me/legotckoi)**
 * **[Yandex.Money](https://money.yandex.ru/to/410011306906193)**
 * **[Patreon](https://www.patreon.com/evileg)**
-* **Bitcoin**: 13aqaPG8NZhX3By3he9LtrnHsmvRgsbt95
 
 ## Articles
 
@@ -37,6 +36,7 @@ You can do it by following ways:
 | --- | --- |
 | [CustomButton](QML/CustomButton) | [QML - Tutorial 037. Customizing Buttons in QML (Update Lesson 002)](https://evileg.com/post/571/) |
 | [ClipPropertyExample](QML/ClipPropertyExample) | [QML - Tutorial 038. Using the clip property to crop child objects inside Item or Rectangle](https://evileg.com/en/post/577/) |
+| [SplashScreen](QML/SplashScreen) | [Android and QML - Adding Splash Screen](https://evileg.com/en/post/596/) |
 
 ### PyQt5 / QML
 
